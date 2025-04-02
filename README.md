@@ -20,7 +20,6 @@ This repository contains a collection of small Python projects, each designed to
 ---
 
 
----
 
 ## ⭐ **Contributions**
 Feel free to fork this repository and add your own mini Python projects. Contributions are always welcome!
