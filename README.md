@@ -6,10 +6,16 @@ This repository contains a collection of small Python projects, each designed to
 
 ## 📚 **Projects List**
 
-1. **Password Generator**
+1. **Password Generator** 🔑
     - A simple Python program that generates a secure password of user-defined length.
     - Ensures at least one digit, uppercase letter, lowercase letter, and symbol.
     - Randomly shuffles the characters for added security.
+
+2.  **Hangman Game** 💀
+    -   A classic word-guessing game where you try to guess the hidden word.
+    -   Displays ASCII art of the hangman figure with each incorrect guess.
+    -   Includes a hint system for when you get stuck.
+    -   Allows you to play multiple rounds.
 
 ---
 
