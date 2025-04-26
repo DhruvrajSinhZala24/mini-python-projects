@@ -17,6 +17,12 @@ This repository contains a collection of small Python projects, each designed to
     -   Includes a hint system for when you get stuck.
     -   Allows you to play multiple rounds.
 
+3. **Flappy Bird** 🐦
+    - A colorful clone of the Flappy Bird game built with Python and Pygame.
+    - Press `SPACE` to jump and avoid hitting the pipes.
+    - Features a scoring system with automatic high score saving.
+    - Includes floating clouds, particle effects, sound effects, and smooth gameplay.
+
 ---
 
 
