@@ -23,6 +23,11 @@ This repository contains a collection of small Python projects, each designed to
     - Features a scoring system with automatic high score saving.
     - Includes floating clouds, particle effects, sound effects, and smooth gameplay.
 
+4. **Simple To-Do List CLI App** 📝
+    - A minimal command-line interface app to manage your daily tasks.
+    - Add, view, mark as done, and delete tasks easily.
+    - Tasks are saved locally in a text file for persistence.
+    - No external dependencies — just pure Python and file I/O.
 ---
 
 
